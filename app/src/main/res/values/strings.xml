@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rapido2</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Disco D/INGENIERIA DE SISTEMAS/NOVENO SEMESTRE/Gestion/FINAL/Rapido2/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.25" />
+        <entry key="..\:/Disco D/INGENIERIA DE SISTEMAS/NOVENO SEMESTRE/Gestion/FINAL/Rapido2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Disco D/INGENIERIA DE SISTEMAS/NOVENO SEMESTRE/Gestion/FINAL/Rapido2/app/src/main/res/layout/activity_productos.xml" value="0.19947916666666668" />
+        <entry key="..\:/Disco D/INGENIERIA DE SISTEMAS/NOVENO SEMESTRE/Gestion/FINAL/Rapido2/app/src/main/res/layout/activity_registro_vendedor.xml" value="0.25" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_auxiliar.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_catalogo.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_editar_perfil_vendedor.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_inicio_vendedor.xml" value="0.20520833333333333" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_olvide_contrasena.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_principal_vendedor.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_productos.xml" value="0.21041666666666667" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_redes_vendedor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_registro_producto.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/activity_registro_vendedor.xml" value="0.33" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/app_bar_main.xml" value="0.2859375" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/nav_header_main.xml" value="0.2859375" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/layout/vista_producto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/menu/activity_main_drawer.xml" value="0.2859375" />
+        <entry key="..\:/Proyectos ANDROID STUDIO/Rapido2/app/src/main/res/menu/button_nav.xml" value="0.36666666666666664" />
+        <entry key="..\:/Rapido2/app/src/main/res/drawable-v24/boton_diseno.xml" value="0.1975" />
+        <entry key="..\:/Rapido2/app/src/main/res/drawable-v24/botoncircular.xml" value="0.1345" />
+        <entry key="..\:/Rapido2/app/src/main/res/drawable-v24/ic_email.xml" value="0.1295" />
+        <entry key="..\:/Rapido2/app/src/main/res/drawable-v24/ic_field.xml" value="0.1295" />
+        <entry key="..\:/Rapido2/app/src/main/res/drawable-v24/ic_lock.xml" value="0.1295" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_editar_perfil_vendedor.xml" value="0.25" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_iniciar_sesion.xml" value="0.33" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_inicio_vendedor.xml" value="0.19947916666666668" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_olvide_contrasena.xml" value="0.19947916666666668" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_principal_vendedor.xml" value="0.33" />
+        <entry key="..\:/Rapido2/app/src/main/res/layout/activity_registro_vendedor.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

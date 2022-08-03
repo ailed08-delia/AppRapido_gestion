@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal_vendedor"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_contacto"
+            android:icon="@drawable/ic_baseline_phone_24"
+            android:title="Contactos" />
+        <item
+            android:id="@+id/nav_catalogo"
+            android:icon="@drawable/ic_baseline_fastfood_24"
+            android:title="Catálogo" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Perfil" />
+
+    </group>
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondito"
+    android:orientation="vertical"
+    tools:context=".Inicio_vendedor">
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:elevation="@dimen/cardview_compat_inset_shadow"
+        app:srcCompat="@drawable/vendedor" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="20dp"
+        android:text="Tus productos y tus cliente\nmás cerca"
+        android:textAlignment="center"
+        android:textColor="#070707"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnCrear_cuenta_vendedor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+
+        android:background="@drawable/boton_diseno"
+        android:backgroundTint="#3F51B5"
+        android:text="Crear cuenta vendedor"
+        android:textColor="#FAF6F6" />
+
+    <Button
+        android:id="@+id/btnIniciar_sesion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="60dp"
+        android:background="@drawable/boton_diseno"
+        android:backgroundTint="#3F51B5"
+        android:text="Iniciar sesion"
+        android:textColor="#FBF9F9" />
+</LinearLayout>
